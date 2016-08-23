@@ -13,6 +13,7 @@ Launch topdownrpg.exe
 Controls
 ----------
 W, Up = Move up
+<br />
 S, Down = Move down
 A, Left = Move left
 D, Right = Move right
