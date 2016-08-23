@@ -15,13 +15,21 @@ Controls
 W, Up = Move up
 <br />
 S, Down = Move down
+<br />
 A, Left = Move left
+<br />
 D, Right = Move right
+<br />
 Escape = Close game
+<br />
 H = Use Health Potion
+<br />
 I = Open inventory
+<br />
 E = Interact
+<br />
 R = Reduce HP of Player
+<br />
 Menu only
 -----------
 Spacebar = Accept
