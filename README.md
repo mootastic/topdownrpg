@@ -30,6 +30,7 @@ E = Interact
 <br />
 R = Reduce HP of Player
 <br />
+<br />
 Menu only
 -----------
 Spacebar = Accept
