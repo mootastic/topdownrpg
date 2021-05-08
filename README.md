@@ -3,7 +3,7 @@
 What Is This?
 -------------
 
-Some trash game I made.
+Some trash game I made. (Not a full game more of learning experience for me.)
 
 How To Play
 -----------------------
